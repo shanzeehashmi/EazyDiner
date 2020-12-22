@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EazyDiner Pro</string>
+    <string name="sample_food">Sample Food</string>
+    <string name="my_checked_items_button">My Items</string>
+</resources>
